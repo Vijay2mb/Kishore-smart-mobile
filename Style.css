@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.student-info {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 1.3em;
+  font-weight: 600;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: 3px solid rgba(255,255,255,0.1);
+}
+
+/* ...rest of your CSS */
